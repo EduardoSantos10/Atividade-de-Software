@@ -1,0 +1,20 @@
+body{
+    background-color: #fff;
+    color: #000;
+    font-size: 30px;
+    margin: 0px;
+}
+
+header{
+    border: 2px solid #000;
+    text-align: center;
+}
+
+.botoesMenu, li{
+    color: #fff;
+    list-style-type: none;
+    display: inline;
+    border: 2px solid #000;
+    padding: 20px;
+    background-color: #000;
+}
