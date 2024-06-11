@@ -1,10 +1,6 @@
 body{
-    background-image: url(../IMAGENS/naruto.png);
-    color: #ff0;
-    font-size: 20px;
-    margin: 2;
-    margin-left: 10%;
-
+    background-image: url(../IMAGENS/carrinho.jpg);
+    background-repeat: repeat;
 }
 
 .botoesMenu{
@@ -25,15 +21,4 @@ body{
 
 header{
     text-align: center;
-}
-
-a{
-    color: #ff0;
-    border: 2px solid;
-    padding: 10px;
-    text-align: center;
-    box-sizing: content-box;
-    display: inline-block;
-    list-style-type: none;
-    margin-bottom: 150px;
 }

@@ -1,0 +1,60 @@
+body{
+    color: black;
+    background-image: url(../IMAGENS/Boruto-and-Naruto-Vigorous.jpg);
+    background-repeat: repeat;
+    height: 60%;
+}
+
+.botoesMenu{
+    color: #000;
+    display: inline-block;
+    list-style-type: none;
+    border: 2px solid;
+    padding: 20px;
+    font-size: 30px;
+    text-align: center;
+    box-sizing: content-box;
+    margin-bottom: 200px;
+}
+
+header{
+    text-align: center;
+}
+
+.botoesMenu:hover{
+    background-color: #000;
+    font-size: 30px;
+    font-family: Arial, Helvetica, sans-serif;
+    border: 10px solid #000;
+    background-image: url("../IMAGENS/imagem\ de\ fundo.jpg");
+}
+
+a{
+    color: #ff0;
+    border: 2px solid;
+    padding: 10px;
+    text-align: center;
+    box-sizing: content-box;
+    display: inline-block;
+    list-style-type: none;
+    margin-bottom: 150px;
+}
+
+h1{
+    color: crimson;
+    margin-left: 1070px;
+    margin-bottom: 2500px;
+}
+
+form{
+    color: yellowgreen;
+    margin-bottom: 5000px;
+    text-align: center;
+    margin-left: 1000px;
+}
+
+div{
+    margin-top: -160%;
+    margin-right: 10%;
+}
+
