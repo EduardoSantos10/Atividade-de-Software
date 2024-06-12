@@ -37,24 +37,34 @@ a{
     box-sizing: content-box;
     display: inline-block;
     list-style-type: none;
-    margin-bottom: 150px;
+
 }
 
 h1{
-    color: crimson;
-    margin-left: 1070px;
-    margin-bottom: 2500px;
+    color: #dcf30b;
+    text-align: center;
+    margin-left: 50%;
 }
 
 form{
-    color: yellowgreen;
-    margin-bottom: 5000px;
+    color: #dcf30b;
     text-align: center;
-    margin-left: 1000px;
+    margin-left: 50%;
+
 }
 
-div{
-    margin-top: -160%;
-    margin-right: 10%;
+.botaoCadastar{
+    color: #dcf30b;
+    display: inline-block;
+    list-style-type: none;
+    border: 2px solid;
+    padding: 20px;
+    text-align: center;
+    box-sizing: content-box;
+    padding-bottom: 50%;
 }
+
+
+
+
 

@@ -27,13 +27,16 @@ header{
     text-align: center;
 }
 
-a{
-    color: #ff0;
-    border: 2px solid;
-    padding: 10px;
-    text-align: center;
-    box-sizing: content-box;
+
+.botaoEntrar{
+    color: #dcf30b;
     display: inline-block;
     list-style-type: none;
+    border: 2px solid;
+    padding: 20px;
+    text-align: center;
+    box-sizing: content-box;
     margin-bottom: 150px;
+    margin-right: 110%;
+    
 }
